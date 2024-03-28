@@ -13,4 +13,4 @@ function kolobok(name) {
     }
   }
 
-  console.log(newYear('Снегурочка'))
+  console.log(newYear('Дед Мороз'))
